@@ -1,0 +1,6 @@
+framework module LKKProgressView {
+  umbrella header "LKKProgressView-umbrella.h"
+
+  export *
+  module * { export * }
+}

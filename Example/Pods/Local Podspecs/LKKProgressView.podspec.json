@@ -1,0 +1,22 @@
+{
+  "name": "LKKProgressView",
+  "version": "0.1.0",
+  "summary": "A short description of LKKProgressView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/LKKProgressView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "李韧": "lr_5146@163.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/LKKProgressView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LKKProgressView/Classes/**/*"
+}

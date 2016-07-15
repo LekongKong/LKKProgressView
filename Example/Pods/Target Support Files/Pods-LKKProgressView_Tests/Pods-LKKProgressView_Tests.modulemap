@@ -1,0 +1,6 @@
+framework module Pods_LKKProgressView_Tests {
+  umbrella header "Pods-LKKProgressView_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

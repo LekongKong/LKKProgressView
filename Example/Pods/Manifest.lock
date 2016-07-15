@@ -1,0 +1,16 @@
+PODS:
+  - LKKProgressView (0.1.0)
+
+DEPENDENCIES:
+  - LKKProgressView (from `../`)
+
+EXTERNAL SOURCES:
+  LKKProgressView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  LKKProgressView: c6842b11376cfbcf92254e00045b3b1a2842d796
+
+PODFILE CHECKSUM: e11de81536ec0c2482008ad1494a61949f69d228
+
+COCOAPODS: 1.0.1
