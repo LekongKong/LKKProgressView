@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LKKProgressView_Example' do
+  pod 'LKKProgressView', :path => '../'
+
+  target 'LKKProgressView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
